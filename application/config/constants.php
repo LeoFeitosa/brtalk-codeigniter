@@ -1,7 +1,9 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-define('MODULO_APP', 'app/');
+define('MODULO_APP', 'brtalk/');
+
+define('WEBFILES_BRTALK', 'web-files/brtalk/');
 
 /*
 |--------------------------------------------------------------------------

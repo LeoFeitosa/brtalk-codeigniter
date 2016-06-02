@@ -11,7 +11,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
  * 
  * @version 2016-06-02 13:00
  */
-class Home extends MY_Controller 
+class Cliente extends MY_Controller 
 {
     function __construct()
     {
